@@ -1,4 +1,4 @@
-The resource list is as follows:
+The resource list is as follows:\\
 
 Asset Packages:
   Brick_House
