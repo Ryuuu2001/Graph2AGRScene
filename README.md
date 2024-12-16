@@ -1,7 +1,7 @@
 The resource list is as follows:  
   
 Asset Packages:  
-(1)Brick_House  
+(1) Brick_House  
 Building Apartment  
 Darth_Artisan  
 FencesPack  
