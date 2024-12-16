@@ -2,15 +2,15 @@ The resource list is as follows:
   
 Asset Packages:  
 (1) Brick_House  
-Building Apartment  
-Darth_Artisan  
-FencesPack  
-Five Seamless Tileable Ground Textures  
-Medieval_well  
+(2) Building Apartment  
+(3) Darth_Artisan  
+(4) FencesPack  
+(5) Five Seamless Tileable Ground Textures  
+(6) Medieval_well  
   
 NuGet:  
-OxyPlot.Core.2.2.0  
-Unofficial.Triangle.NET.0.0.1  
+(1) OxyPlot.Core.2.2.0  
+(2) Unofficial.Triangle.NET.0.0.1  
   
 Others:  
-Splines  
+(1) Splines  
